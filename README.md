@@ -1,1 +1,0 @@
-# Ciclo2_python
